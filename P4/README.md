@@ -9,6 +9,7 @@ OBJETIVOS
 • Establecer las restricciones eléctricas y de fabricación que orientarán el diseño de la PCB, documentarlas en el proyecto y estimar el costo de sus componentes para diferentes volúmenes de producción.
 
 CONTENIDO
+
 • Proyecto nativo de Altium con todas las hojas esquemáticas y las dependencias necesarias para abrirlo.
 
 • Librerías propias editables y modelos utilizados, con símbolos y huellas verificados.
